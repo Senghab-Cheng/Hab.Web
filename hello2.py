@@ -1,2 +1,0 @@
-name = "Hab"
-print= (name)
